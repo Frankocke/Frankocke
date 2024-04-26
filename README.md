@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frankocke
+- 👋 Hi, I’m @frankocke
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Practical Data Science With Python
 - 💞️ I’m looking to collaborate on starting projects
